@@ -1,0 +1,24 @@
+{
+  "name": "Boredom - Find Meaning Through Stillness",
+  "short_name": "Boredom",
+  "description": "Transform boredom into creativity, meaning, and personal growth",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F5F7",
+  "theme_color": "#6B4E9B",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["health", "lifestyle", "productivity"],
+  "screenshots": []
+}
